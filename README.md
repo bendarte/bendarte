@@ -1,9 +1,8 @@
-<div align="center">
-  <h1>bendarte</h1>
-  <p><em>enjoy coding, enjoy life ;)</em></p>
-</div>
+### `bendarte / README.md`
 
-<br />
+```txt
+enjoy coding, enjoy life ;)
+```
 
 ## Focus
 
@@ -11,8 +10,6 @@
 - Automation
 - AI tools
 
-<br />
-
-<p align="center">
+<p>
   Pinned repositories are shown directly on the profile.
 </p>
