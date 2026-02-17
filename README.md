@@ -1,5 +1,3 @@
-### `bendarte / README.md`
-
 ```txt
 enjoy coding, enjoy life ;)
 ```
@@ -9,7 +7,3 @@ enjoy coding, enjoy life ;)
 - Javascript
 - Automation
 - AI tools
-
-<p>
-  Pinned repositories are shown directly on the profile.
-</p>
